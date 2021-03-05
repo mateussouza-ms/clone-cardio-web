@@ -1,15 +1,20 @@
 import React from "react";
 
-import Document, { Head } from "next/document";
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 export default class MyDocument extends Document {
   render() {
     return (
-      <html>
+      <Html>
         <Head>
+          <title>Sistema Cardio</title>
           <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         </Head>
-      </html>
+        <body>
+          <Main />
+          <NextScript />
+        </body>
+      </Html>
     );
   }
 }

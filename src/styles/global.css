@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+input,
+textarea,
+button {
+  font: 0.875rem "Trebuchet MS", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: Unimed Slab Light;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: Unimed Slab Book;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-Book.otf") format("opentype");
+}
+@font-face {
+  font-family: Unimed Slab Regular;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: Unimed Slab Bold;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: Unimed Slab Extra Bold;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-ExtraBold.otf")
+    format("opentype");
+}
+@font-face {
+  font-family: Unimed Slab Black;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-Black.otf") format("opentype");
+}
+@font-face {
+  font-family: Unimed Slab Semi Bold;
+  src: url("/assets/font/Unimed Slab/UnimedSlab-SemiBold.otf")
+    format("opentype");
+}

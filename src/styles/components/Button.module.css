@@ -1,0 +1,21 @@
+.btnSubmit {
+  margin-top: 32px;
+  width: 100%;
+  padding: 8px 8px;
+  border: 1px solid #00995d;
+  background: #00995d;
+  color: #fff;
+  border: 0;
+  border-radius: 20px;
+  outline: 0;
+  font-size: 16px;
+}
+
+.btnSubmit:hover {
+  background: #7ac0a0;
+  border-color: #7ac0a0;
+}
+
+.btnSubmit:active {
+  transform: translate(2px, 2px);
+}

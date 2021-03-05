@@ -1,0 +1,14 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="12"
+  height="12"
+  viewBox="0 0 24 24"
+  fill="#BEBEBE"
+  stroke="#BEBEBE"
+  stroke-width="1"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  class="feather feather-chevron-down">
+  <polyline points="18 9 12 3 6 9" fill="black" stroke="black"></polyline>
+  <polyline points="6 15 12 20 18 15"></polyline>
+</svg>
